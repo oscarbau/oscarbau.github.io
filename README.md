@@ -1,3 +1,6 @@
-# oscarbau.github.io
+     # Oscar Bautista
+     ## Earth observation and spatial data scientist
 
-Test readme file for github page
+<h3>ABOUT ME</h3>
+
+
