@@ -1,15 +1,13 @@
-<h1 style="text-align: center;"><strong>Oscar Bautista</strong></h1>
-<h3 style="text-align: center;">Earth observation and spatial data scientist</h3>
-<h1 style="text-align: center;"><strong><img src="https://media-exp1.licdn.com/dms/image/C4E03AQF8_Gr-QcyS1Q/profile-displayphoto-shrink_800_800/0/1608312021319?e=1669852800&amp;v=beta&amp;t=WjOrOKW5-1YD-dKhWkpGaEP_b07OqQOOV_voE3q2LhA" alt="" width="118" height="118" /></strong></h1>
-<p>I am an agronomic engineer and MSc. in Geo-information Science and Earth Observation for Natural Resource Management.</p>
-<p>I have over 8 years of experience working on</p>
-<ul>
-<li>geospatial-data analytics</li>
-<li>geospatial web tools and dashboards</li>
+<p dir="auto">I am an agronomic engineer (<a href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0120-99652013000100006">thesis</a>) and MSc. in Geo-information Science and Earth Observation (<a href="https://link.springer.com/article/10.1007/s10113-021-01770-6">thesis</a>) for Natural Resource Management.</p>
+<p dir="auto">I have over 8 years of experience working on</p>
+<ul dir="auto">
+<li><a href="https://docs.google.com/document/d/1efPXAZSte3aUo5IvcFHMR4VJSL30h9oSOKmSzMF7QGM/edit?usp=sharing">geospatial-data analytics</a></li>
+<li><a href="https://github.com/oscarbau/oscarbau.github.io/blob/main/Risk%20overview.PNG?raw=true">geospatial web tools</a> and dashboards</li>
 <li>land cover change detection</li>
-<li>forest monitoring crop mapping and monitoring</li>
+<li><a href="http://www.terra-i.org/news/news/San-Vicente-del-Cagu-n--Colombia-s--1-deforestation-hotspot.html">forest monitoring</a> and <a href="https://github.com/oscarbau/oscarbau.github.io/blob/main/Carbon%20tool.PNG">carbon estimation</a></li>
+<li>wetland monitoring</li>
+<li><a href="https://code.earthengine.google.com/cbd1dab50de8148602bee1b32bd56ef9?hideCode=true">crop mapping and monitoring</a></li>
 <li>agri-insurance</li>
 <li>quantification, monitoring, and modeling of watershed ecosystem services.</li>
 </ul>
-<p>I have worked with International NGOs, Research Institutions, and Government institutions on local, national, regional, and global projects. My professional interests are oriented toward the application of remote sensing, GIS, and spatial data analysis to adequately and sustainably manage natural resources.</p>
-<h2 style="text-align: left;">&nbsp;</h2>
+<p dir="auto">I have worked with International NGOs, Research Institutions, and Government institutions on local, national, regional, and global projects. My professional interests are oriented toward the application of remote sensing, GIS, and spatial data analysis to adequately and sustainably manage natural resources.</p>
