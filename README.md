@@ -8,8 +8,8 @@
 <li><a href="https://drive.google.com/file/d/11H6KJihmnUqFx97ToWSvKgRrEeZj4DOx/view">geospatial web tools</a> and dashboards 📊</li>
 <li>land cover change detection 🏞️</li>
 <li><a href="http://www.terra-i.org/news/news/San-Vicente-del-Cagu-n--Colombia-s--1-deforestation-hotspot.html">forest monitoring</a> and <a href="https://drive.google.com/open?id=11FprAcTDDuXDXpcF9ywYhGLXgA2iFvSa&amp;authuser=ovbautistac%40unal.edu.co&amp;usp=drive_fs">carbon estimation</a> 🌳</li>
-<li><a href="https://ovbautistac.users.earthengine.app/view/app1">wetland monitoring</a> 💧</li>
-<li><a href="https://code.earthengine.google.com/cbd1dab50de8148602bee1b32bd56ef9?hideCode=true">crop mapping and monitoring</a> 🌾</li>
+<li><a href="https://ovbautistac.users.earthengine.app/view/cropclassifier">crop mapping and monitoring</a> 🌾</li>
+<li><a href="">wetland monitoring</a> 💧</li>
 <li>agri-insurance 👨&zwj;🌾</li>
 <li>quantification, monitoring, and modeling of watershed ecosystem services 🗺️</li>
 </ul>
