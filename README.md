@@ -1,4 +1,4 @@
-<p dir="auto" style="text-align: center;"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQF8_Gr-QcyS1Q/profile-displayphoto-shrink_800_800/0/1608312021319?e=1669852800&amp;v=beta&amp;t=WjOrOKW5-1YD-dKhWkpGaEP_b07OqQOOV_voE3q2LhA" alt="" width="150" height="150" /></p>
+
 <h1 dir="auto" style="text-align: center;"><strong>Oscar Bautista</strong></h1>
 <h2 dir="auto" style="text-align: center;">Earth observation and spatial data specialist 🛰️</h2>
 <p dir="auto">I am an agronomic engineer (<a href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0120-99652013000100006">thesis</a>) and MSc. in Geo-information Science and Earth Observation (<a href="https://link.springer.com/article/10.1007/s10113-021-01770-6">thesis</a>) for Natural Resource Management.</p>
